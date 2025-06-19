@@ -18,7 +18,7 @@ unzip training\ features.zip
 
 unzip independent\ test\ features.zip
 
-pip install -r pip requirements.txt
+pip install -r requirements.txt
 
 python ensemble.py
 
